@@ -1,0 +1,17 @@
+.header {
+    background-color: #333;
+    color: #fff;
+}
+
+.header .profile-info img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.header .search-profile input[type="text"] {
+    border: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+    background-color: #444;
+}
